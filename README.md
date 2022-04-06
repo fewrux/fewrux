@@ -2,10 +2,6 @@
 
 ### I'm Felipe Rubio
 
-  • 🎓 Software Engineering Student, Estácio de Sá Universities
-  • 💻 Learning JavaScript and Ruby
-  • 📫 LinkedIn Profile ---> https://www.linkedin.com/in/felipecrubio/
-
 <!--
 **ferubio/ferubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* :mortar_board: Software Engineering Student, Estácio de Sá Universities
+* :computer: Learning JavaScript and Ruby
+* :mailbox: LinkedIn Profile ---> https://www.linkedin.com/in/felipecrubio/
