@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* :mortar_board: Software Engineering Student, Estácio de Sá Universities
+* :mortar_board: Computer Science Student
 * :computer: Learning JavaScript and Ruby
 * :mailbox: LinkedIn Profile ---> https://www.linkedin.com/in/felipecrubio/
