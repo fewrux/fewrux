@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* :mortar_board: Computer Science Student
-* :computer: Learning JavaScript and Ruby
+Computer Science student with a background in advertising agencies as a Copywriter and Account Manager, leading teams and serving large clients in-house.
+
+In life outside of LinkedIn, I am a Yoga teacher and I have lived in an Ashram for 7 months as a retreatant and resident teacher.
+
+Whenever I can, I travel to collaborate on ecovillage, agroforestry, and bio construction projects.
+
+* :computer: Learning JavaScript, Java and Ruby
 * :mailbox: LinkedIn Profile ---> https://www.linkedin.com/in/felipecrubio/
