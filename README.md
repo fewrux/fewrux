@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 Computer Science student with a background in advertising agencies as a Copywriter and Account Manager, leading teams and serving large clients in-house.
 
-* :computer: JavaScript, CSS, HTML
-* 🔭 Learning React, Node.js and Express.js, Java, Ruby
+* :computer: Stacks ---> JavaScript, CSS, HTML
+* 🔭 Learning ---> React, Node.js and Express.js, Java, Ruby
 * :mailbox: LinkedIn Profile ---> https://www.linkedin.com/in/felipecrubio/
 
 🌱 Fun fact: in life outside of LinkedIn, I am a Yoga teacher and I have lived in an Ashram for 7 months as a retreatant and resident teacher. Whenever I can, I travel to collaborate on ecovillage, agroforestry, and bio construction projects.
