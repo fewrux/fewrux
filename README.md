@@ -22,4 +22,4 @@ Computer Science student with a background in advertising agencies as a Copywrit
 * 🔭 Learning ---> React, Ruby, Java
 * :mailbox: LinkedIn Profile ---> https://www.linkedin.com/in/felipecrubio/
 
-🌱 Fun fact: in life outside of LinkedIn, I am a Yoga teacher and I have lived in an Ashram for 7 months as a retreatant and resident teacher. Whenever I can, I travel to collaborate on ecovillage, agroforestry, and bio construction projects.
+🌱 Life outside of coding: I am a Yoga teacher and I have lived in an Ashram for 7 months as a retreatant and resident teacher. Whenever I can, I travel to collaborate on ecovillage, agroforestry, and bio construction projects.
