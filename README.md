@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Computer Science student with a background in advertising agencies as a Copywriter and Account Manager, leading teams and serving large clients in-house.
+Computer Science student with a solid background in advertising agencies as a Copywriter and Account Manager, leading teams and serving large clients in-house.
 
 * :computer: Stacks ---> JavaScript, Node.js, Express, CSS, HTML
 * 🔭 Learning ---> React, Ruby, Java
