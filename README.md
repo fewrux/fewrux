@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Computer Science student with a solid background in advertising agencies as a Copywriter and Account Manager, leading teams and serving large clients in-house.
+Software Developer with a solid background in Copywriting and Account Management.
+Experience working at agencies, in-house, leading teams and serving major clients.
 
-* :computer: Stacks ---> JavaScript, Node.js, React, CSS, HTML, APIs, SQL, NoSQL (MongoDB)
-* 🔭 Learning ---> Ruby, Ruby on Rails
+* :computer: Stacks ---> Ruby on Rails, React, JavaScript, PostgreSQL, MongoDB
+* 🔭 Learning ---> TypeScript, Node.js
 * :mailbox: LinkedIn Profile ---> https://www.linkedin.com/in/felipecrubio/
 
 🌱 Life outside of coding: I am a Yoga teacher and I have lived in an Ashram for 7 months as a retreatant and resident teacher. Whenever I can, I travel to collaborate on ecovillage, agroforestry, and bio construction projects.
