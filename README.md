@@ -16,11 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Software Developer with a solid background in Copywriting and Account Management.
+
+<div>
+  <a href="https://github.com/felipecrubio">
+  ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecrubio&count_private=true&show_icons=true&theme=radical)
+</div>
+
+Software Developer specialized in the Ruby toolchain. Senior Copywriter experienced woking .
 Experience working at agencies, in-house, leading teams and serving major clients.
 
 * :computer: Stacks ---> Ruby on Rails, React, JavaScript, PostgreSQL, MongoDB
-* 🔭 Learning ---> TypeScript, Node.js
 * :mailbox: LinkedIn Profile ---> https://www.linkedin.com/in/felipecrubio/
 
 🌱 Life outside of coding: I am a Yoga teacher and I have lived in an Ashram for 7 months as a retreatant and resident teacher. Whenever I can, I travel to collaborate on ecovillage, agroforestry, and bio construction projects.
