@@ -1,7 +1,7 @@
 #### Hi there 👋
 
 ### I'm Felipe Rubio
-A Fullstack Software Developer specialized in Ruby on Rails and the Ruby toolchain.
+Fullstack Software Developer specialized in Ruby on Rails and the Ruby toolchain.
 ##
 <!--
 **ferubio/ferubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
