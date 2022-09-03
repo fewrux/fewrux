@@ -1,31 +1,34 @@
-### Hi there 👋
+#### Hi there 👋
 
 ### I'm Felipe Rubio
-
+Software Developer specialized in Ruby on Rails and the Ruby toolchain.
+##
 <!--
 **ferubio/ferubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-<div>
+<div align="start">
   <a href="https://github.com/felipecrubio">
-  ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecrubio&count_private=true&show_icons=true&theme=radical)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecrubio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecrubio&layout=compact&langs_count=7&theme=merko"/>
 </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Felipe-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+  <img align="center" alt="Felipe-Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
+  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center" alt="Felipe-Postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="Felipe-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
+  <img align="center" alt="Felipe-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  </a>
+</div> 
 
-Software Developer specialized in the Ruby toolchain. Senior Copywriter experienced woking .
-Experience working at agencies, in-house, leading teams and serving major clients.
+  ##
 
-* :computer: Stacks ---> Ruby on Rails, React, JavaScript, PostgreSQL, MongoDB
-* :mailbox: LinkedIn Profile ---> https://www.linkedin.com/in/felipecrubio/
-
-🌱 Life outside of coding: I am a Yoga teacher and I have lived in an Ashram for 7 months as a retreatant and resident teacher. Whenever I can, I travel to collaborate on ecovillage, agroforestry, and bio construction projects.
+<div>
+  <a href="https://www.linkedin.com/in/felipecrubio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:felipe.carvalho.rubio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
