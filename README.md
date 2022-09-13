@@ -41,3 +41,8 @@ Full-Stack Software Developer specialized in Ruby on Rails and the Ruby toolchai
   <a href="https://www.linkedin.com/in/felipecrubio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:felipe.carvalho.rubio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+ ##
+ 
+💻 Currently learning: Docker, Kubernetes, Golang
+📧 You can reach me out through the links above
