@@ -45,4 +45,4 @@ Full-stack Software Developer specialized in Ruby on Rails and the Ruby toolchai
  ##
  
 💻 Currently learning: Docker, Kubernetes, Golang <br>
-📧 You can reach me out through the links above
+📧 Reach me out through the links above and let's talk!
