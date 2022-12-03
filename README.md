@@ -44,6 +44,6 @@ Full-stack Software Developer specialized in Ruby on Rails, Next.js, and React.
 
  ##
  
-💻 Currently learning: Docker<br>
+💻 Currently studying: Docker<br>
 🚀 Next in line: Kubernetes, Golang<br>
 📧 You can reach me out through the links above
