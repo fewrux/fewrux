@@ -15,7 +15,7 @@ Full-Stack Software Developer specialized in the JavaScript ecosystem.
 -->
 </div>
 <div style="display: inline_block"><br>
-<h3>Tools of the trade<h3/>
+<h3>Tools of the Trade<h3/>
   
   <table>
     <tr>
