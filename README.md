@@ -20,7 +20,7 @@ Full-Stack Software Developer specialized in the JavaScript ecosystem.
   <table>
     <tr>
       <th>Main hand</th>
-      <th>Off hand</th>
+      <th>Off-hand</th>
     </tr>
     <tr>
       <td>
