@@ -19,8 +19,8 @@ Full-Stack Software Developer specialized in the JavaScript ecosystem.
   
   <table>
     <tr>
-      <th>Main Stack</th>
-      <th>Proficient</th>
+      <th>Main hand</th>
+      <th>Off hand</th>
     </tr>
     <tr>
       <td>
