@@ -1,6 +1,6 @@
 Hi there 🔆 I'm Felipe
 ####
-Full-Stack Software Developer specialized in Web3.
+Full-Stack Software Developer specialized in Web3, Solidity, and the JavaScript ecosystem.
 ##
 <!--
 **ferubio/ferubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
