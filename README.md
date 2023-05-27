@@ -1,6 +1,6 @@
 Hi there 🔆 I'm Felipe
 ####
-Software Engineer specialized in Solidity and the JavaScript ecosystem.
+Software Engineer specialized in Solidity and JavaScript ecosystems.
 ##
 
 <!--
