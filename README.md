@@ -1,6 +1,6 @@
 Hi there 🔆 I'm Felipe
 ####
-Software Engineer specialized in Rust, Solidity and JavaScript ecosystems.
+Software Engineer specialized in Rust and JavaScript ecosystems.
 ##
 
 <!--
