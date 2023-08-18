@@ -1,6 +1,6 @@
 Hi there 🔆 I'm Felipe
 ####
-Software Engineer specialized in Rust and JavaScript ecosystems.
+Software Engineer proficient in backend development and well-versed in Rust and JavaScript.
 ##
 
 <!--
