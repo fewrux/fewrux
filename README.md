@@ -8,7 +8,7 @@ Software Engineer proficient in backend development and well-versed in Rust and 
 -->
 
 <div align="start">
-  <a href="https://github.com/blockncounter">
+<!--   <a href="https://github.com/fewrux"> -->
 <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blockncounter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blockncounter&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -57,7 +57,7 @@ Software Engineer proficient in backend development and well-versed in Rust and 
       </td>
     </tr>
   </table>
-  </a>
+<!--   </a> -->
 </div> 
 
 <br>
