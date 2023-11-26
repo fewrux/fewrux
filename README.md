@@ -1,6 +1,6 @@
 #### Hi there 🔆 I'm Felipe
 
-**Software Engineer** on the epic quest to recreating everything in **Rust**.
+**Software Engineer** on the epic quest to recreate everything in **Rust**.
 
 Mostly a **backender**, but with a keen eye for **frontend** as well (heritage from my Copywriter days).
 
