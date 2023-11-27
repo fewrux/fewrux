@@ -4,6 +4,7 @@
 
 Mostly a **backender**, but with a keen eye for **frontend** as well (heritage from my Copywriter days).
 
+<!--
 <br>
 
 ## Epic Quest to Recreate Everything in Rust
@@ -25,7 +26,7 @@ Mostly a **backender**, but with a keen eye for **frontend** as well (heritage f
 - [ ] Dioxus webpage
 
 <br>
-
+-->
 <!--
 **Skills:**
 - [x] Ownership & memory management
