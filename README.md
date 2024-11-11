@@ -1,6 +1,6 @@
-#### Hi there 🔆 I'm Felipe
+"_Hello, my friend. Stay awhile and [listen](https://www.youtube.com/watch?v=4zABc79sq2c)..._"
 
-**Software Engineer** on the epic quest to recreate everything in **Rust**.
+**Software Engineer** with a passion for **Rust** and **Linux**.
 
 Mostly a **backender**, but with a keen eye for **frontend** as well (heritage from my Copywriter days).
 
