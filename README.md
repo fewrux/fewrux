@@ -4,6 +4,8 @@
 
 Mostly a **backender**, but with a keen eye for **frontend** as well (heritage from my Copywriter days).
 
+🦀 _May your `Result` always be `Ok`, your lifetimes explicit, and your `unwrap()`s nonexistent._
+
 <!--
 <br>
 
